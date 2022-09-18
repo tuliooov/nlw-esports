@@ -2,7 +2,3 @@ build
 node_modules
 
 prisma/migrations
-
-src/database
-
-.env
